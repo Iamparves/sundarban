@@ -26,3 +26,13 @@
     font-family: 'Redressed', cursive;
     font-size: 35px;
 }
+
+.about{
+    width: 1000px;
+    margin: 50px auto;
+}
+
+.text{
+    color: #777;
+    text-align: justify;
+}
