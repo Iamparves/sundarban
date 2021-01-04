@@ -51,3 +51,13 @@
     border-radius: 50px;
     background: green;
 }
+
+.cox-bazar{
+    text-align: center;
+    padding: 20px 0 50px;
+}
+
+.cox-bazar img{
+    width: 1000px;
+    border-radius: 6px;
+}
